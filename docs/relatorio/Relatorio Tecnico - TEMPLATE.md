@@ -28,12 +28,12 @@ Trabalho Interdisciplinar: Aplicacões Web | Ciência da Computação | PUC Mina
   - [Justificativa](#justificativa)
   - [Público-Alvo](#público-alvo)
 - [Especificações do Projeto](#especificações-do-projeto)
-  - [Personas e Mapas de Empatia](#personas-e-mapas-de-empatia)
-  - [Histórias de Usuários](#histórias-de-usuários)
-  - [Requisitos](#requisitos)
+  - [Personas e Mapas de Empatia](#personas-e-mapas-de-empatia) * Felipe
+  - [Histórias de Usuários](#histórias-de-usuários) * Felipe
+  - [Requisitos](#requisitos) * Felipe
     - [Requisitos Funcionais](#requisitos-funcionais)
     - [Requisitos não Funcionais](#requisitos-não-funcionais)
-  - [Restrições](#restrições)
+  - [Restrições](#restrições) * Felipe
 - [Projeto de Interface](#projeto-de-interface)
   - [User Flow](#user-flow)
   - [Wireframes](#wireframes)
