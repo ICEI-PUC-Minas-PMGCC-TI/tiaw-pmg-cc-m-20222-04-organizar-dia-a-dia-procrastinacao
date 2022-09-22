@@ -9,12 +9,12 @@ Trabalho Interdisciplinar: Aplicacões Web | Ciência da Computação | PUC Mina
 
 ## Participantes
 
-* Arthur Burdignon
-* Christopher Carpegiane
-* Eduarda Nunis
-* Felipe Azevedo
-* Kaio Henrique
-* Victor Lima
+* Arthur Henrique Figueiredo Cayres Burdignon
+* Christopher Carpegiane de Souza Rocha
+* Eduarda Silva Santos Nunis
+* Felipe Azevedo Junqueira de Carvalho
+* Kaio Henrique Lucio e Santos
+* Victor Lima Sedlmaier
 
 
 # Estrutura do Documento
