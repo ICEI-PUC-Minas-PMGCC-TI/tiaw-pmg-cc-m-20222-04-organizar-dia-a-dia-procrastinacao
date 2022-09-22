@@ -5,17 +5,17 @@
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Trabalho Interdisciplinar: Aplicacões Web | Ciência da Computação | PUC Minas
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+* Arthur Burdignon
+* Christopher Carpegiane
+* Eduarda Nunis
+* Felipe Azevedo
+* Kaio Henrique
+* Victor Lima
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
 
 # Estrutura do Documento
 
@@ -322,8 +322,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
+|Processo de Design Thinkgin  | Miro | https://miro.com/app/board/uXjVPUzXPvo=/ | 
+|Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20222-04-organizar-dia-a-dia-procrastinacao/tree/master/codigo | 
 |Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
 |Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
 
