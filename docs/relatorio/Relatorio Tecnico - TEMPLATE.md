@@ -23,10 +23,10 @@ Trabalho Interdisciplinar: Aplicacões Web | Ciência da Computação | PUC Mina
   - [Participantes](#participantes)
 - [Estrutura do Documento](#estrutura-do-documento)
 - [Introdução](#introdução)
-  - [Problema](#problema)
-  - [Objetivos](#objetivos)
-  - [Justificativa](#justificativa)
-  - [Público-Alvo](#público-alvo)
+  - [Problema](#problema)*Eduarda*
+  - [Objetivos](#objetivos)*Eduarda*
+  - [Justificativa](#justificativa)*Eduarda*
+  - [Público-Alvo](#público-alvo)*Eduarda*
 - [Especificações do Projeto](#especificações-do-projeto)
   - [Personas e Mapas de Empatia](#personas-e-mapas-de-empatia) * Felipe
   - [Histórias de Usuários](#histórias-de-usuários) * Felipe
