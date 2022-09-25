@@ -88,11 +88,7 @@ Trabalho Interdisciplinar: Aplicacões Web | Ciência da Computação | PUC Mina
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+>A partir de de um trabalho de entrevistas qualitativas feitas pelos membros da equipe, foi possível a utilização de várias técnicas para realizar a especificações do >projeto. Nessa seção, essas técnicas serão apresentadas com mais profundidade, sendo elas: elaboração de Personas, Histórias de Usuários, Requisitos e Restrições do >projeto. 
 
 ## Personas e Mapas de Empatia
 
