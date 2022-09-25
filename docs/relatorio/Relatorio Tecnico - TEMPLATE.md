@@ -267,9 +267,9 @@ Foi pensado em criar um ambiente mais limpo possivel, com a finalidade de passsa
 ## Divisão de Papéis
 
 > Arthur Burdignon: Edição do Miro, mapa de stakeholders e matriz CSD
-> Christopher Carpegiane: Edição do Miro
-> Eduarda Nunis: Edição do Miro
-> Felipe Azevedo: Edição do Miro
+> Christopher Carpegiane: Edição do Miro, pesquisa e relatório técnico
+> Eduarda Nunis: Edição do Miro e relatório técnico
+> Felipe Azevedo: Edição do Miro e relatório técnico
 > Kaio Henrique: Edição do Miro, slides da apresentação e relatório técnico
 > Victor Lima: Edição do Miro, wireframes e relatório técnico
 
