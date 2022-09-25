@@ -56,74 +56,35 @@ Trabalho Interdisciplinar: Aplicacões Web | Ciência da Computação | PUC Mina
 
 ## Problema
 
-......  Falta de organização vem nós gerando diversos problemas. O dia com 24h acaba virando 8h, pois não distribuímos bem os horários. Com o estudo realizado descobrimos que grande parte das pessoas em nossas voltas vivem sem saber organizar 100% o seu tempo. Isso inclui horas de sono, trabalhos, estudos e descanso.  
-Jovens universitários, com estagio que não conseguem fazer um bom proveito do tempo por falta de organização. Com a agenda lotada não distribuem bem o tempo para realizar todas demandas.  
-Recém universitários com a diferença entre escola e faculdade sofrem problemas com organizações de tantos trabalhos/provas. 
-Donas de casa com filhos e afazeres não conseguem se organizar e não sobra tempo para hobbys, e acabam se atrasando em tarefas dos filhos.   ......
-
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+> Falta de organização vem nós gerando diversos problemas. O dia com 24h acaba 
+> virando 8h, pois não distribuímos bem os horários. Com o estudo realizado descobrimos 
+> que grande 
+> parte das pessoas em nossas voltas vivem sem saber organizar 100% o seu tempo. 
+> Isso inclui horas de sono, trabalhos, estudos e descanso.  
+> Jovens universitários, com estagio que não conseguem fazer um bom proveito do tempo 
+> por falta de organização. Com a agenda lotada não distribuem bem o tempo para realizar 
+> todas demandas.  
+> Recém universitários com a diferença entre escola e faculdade sofrem problemas com 
+> organizações de tantos trabalhos/provas. 
+> Donas de casa com filhos e afazeres não conseguem se organizar e não sobra tempo para 
+> hobbys, e acabam se atrasando em tarefas dos filhos.
 
 ## Objetivos
 
-......  Auxiliar pessoas com dificuldades em si organizar, aproveitar melhor o tempo em qualquer área da vida. Fazer uma análise das tarefas e distribuir da melhor maneira possível. Estudantes, trabalhadores, donas de casas conseguiram administrar melhor o seu tempo, isso tudo visando um tempo de qualidade.   ......
-
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+> Auxiliar pessoas com dificuldades em si organizar, aproveitar melhor o tempo em qualquer área da vida. 
+> Fazer uma análise das tarefas e distribuir da melhor maneira possível. Estudantes, trabalhadores, 
+> donas de casas conseguiram administrar melhor o seu tempo, isso tudo visando um tempo de qualidade.
 
 ## Justificativa
 
-......  Quando temos uma infinidade de coisas para fazer ao decorrer do dia, acabamos nos exaltando e nos organizamos da pior maneira possível. Calculando as horas de sono, das tarefas e outros deveres conseguiremos achar a distribuição perfeita para cada usuário.  ......
-
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+> Quando temos uma infinidade de coisas para fazer ao decorrer do dia, acabamos nos exaltando e nos 
+> organizamos da pior maneira possível. Calculando as horas de sono, das tarefas e outros deveres 
+> conseguiremos achar a distribuição perfeita para cada usuário.
 
 ## Público-Alvo
 
-......  A princípio estudantes e trabalhadores. Pessoas com as rotinas cheias. Muitas demandas durante ao dia/semana e prezando sempre por aproveitamentos e saúde mental.   ......
-
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+> A princípio estudantes e trabalhadores. Pessoas com as rotinas cheias. Muitas demandas durante ao 
+> dia/semana e prezando sempre por aproveitamentos e saúde mental.
  
 # Especificações do Projeto
 
@@ -230,15 +191,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
-
-
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
 
 # Projeto de Interface
 
