@@ -23,10 +23,10 @@ Trabalho Interdisciplinar: Aplicacões Web | Ciência da Computação | PUC Mina
   - [Participantes](#participantes)
 - [Estrutura do Documento](#estrutura-do-documento)
 - [Introdução](#introdução)
-  - [Problema](#problema)*Eduarda*
-  - [Objetivos](#objetivos)*Eduarda*
-  - [Justificativa](#justificativa)*Eduarda*
-  - [Público-Alvo](#público-alvo)*Eduarda*
+  - [Problema](#problema) *Eduarda
+  - [Objetivos](#objetivos) *Eduarda
+  - [Justificativa](#justificativa) *Eduarda
+  - [Público-Alvo](#público-alvo) *Eduarda
 - [Especificações do Projeto](#especificações-do-projeto)
   - [Personas e Mapas de Empatia](#personas-e-mapas-de-empatia) * Felipe
   - [Histórias de Usuários](#histórias-de-usuários) * Felipe
@@ -79,7 +79,7 @@ Donas de casa com filhos e afazeres não conseguem se organizar e não sobra tem
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Auxiliar pessoas com dificuldades em si organizar, aproveitar melhor o tempo em qualquer área da vida. Fazer uma análise das tarefas e distribuir da melhor maneira possível. Estudantes, trabalhadores, donas de casas conseguiram administrar melhor o seu tempo, isso tudo visando um tempo de qualidade.   ......
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
@@ -92,7 +92,7 @@ Donas de casa com filhos e afazeres não conseguem se organizar e não sobra tem
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Quando temos uma infinidade de coisas para fazer ao decorrer do dia, acabamos nos exaltando e nos organizamos da pior maneira possível. Calculando as horas de sono, das tarefas e outros deveres conseguiremos achar a distribuição perfeita para cada usuário.  ......
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
@@ -108,7 +108,7 @@ Donas de casa com filhos e afazeres não conseguem se organizar e não sobra tem
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  A princípio estudantes e trabalhadores. Pessoas com as rotinas cheias. Muitas demandas durante ao dia/semana e prezando sempre por aproveitamentos e saúde mental.   ......
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
