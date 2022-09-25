@@ -23,10 +23,10 @@ Trabalho Interdisciplinar: Aplicacões Web | Ciência da Computação | PUC Mina
   - [Participantes](#participantes)
 - [Estrutura do Documento](#estrutura-do-documento)
 - [Introdução](#introdução)
-  - [Problema](#problema)*Eduarda*
-  - [Objetivos](#objetivos)*Eduarda*
-  - [Justificativa](#justificativa)*Eduarda*
-  - [Público-Alvo](#público-alvo)*Eduarda*
+  - [Problema](#problema) *Eduarda
+  - [Objetivos](#objetivos) *Eduarda
+  - [Justificativa](#justificativa) *Eduarda
+  - [Público-Alvo](#público-alvo) *Eduarda
 - [Especificações do Projeto](#especificações-do-projeto)
   - [Personas e Mapas de Empatia](#personas-e-mapas-de-empatia) * Felipe
   - [Histórias de Usuários](#histórias-de-usuários) * Felipe
@@ -56,7 +56,10 @@ Trabalho Interdisciplinar: Aplicacões Web | Ciência da Computação | PUC Mina
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Falta de organização vem nós gerando diversos problemas. O dia com 24h acaba virando 8h, pois não distribuímos bem os horários. Com o estudo realizado descobrimos que grande parte das pessoas em nossas voltas vivem sem saber organizar 100% o seu tempo. Isso inclui horas de sono, trabalhos, estudos e descanso.  
+Jovens universitários, com estagio que não conseguem fazer um bom proveito do tempo por falta de organização. Com a agenda lotada não distribuem bem o tempo para realizar todas demandas.  
+Recém universitários com a diferença entre escola e faculdade sofrem problemas com organizações de tantos trabalhos/provas. 
+Donas de casa com filhos e afazeres não conseguem se organizar e não sobra tempo para hobbys, e acabam se atrasando em tarefas dos filhos.   ......
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -76,7 +79,7 @@ Trabalho Interdisciplinar: Aplicacões Web | Ciência da Computação | PUC Mina
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Auxiliar pessoas com dificuldades em si organizar, aproveitar melhor o tempo em qualquer área da vida. Fazer uma análise das tarefas e distribuir da melhor maneira possível. Estudantes, trabalhadores, donas de casas conseguiram administrar melhor o seu tempo, isso tudo visando um tempo de qualidade.   ......
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
@@ -89,7 +92,7 @@ Trabalho Interdisciplinar: Aplicacões Web | Ciência da Computação | PUC Mina
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Quando temos uma infinidade de coisas para fazer ao decorrer do dia, acabamos nos exaltando e nos organizamos da pior maneira possível. Calculando as horas de sono, das tarefas e outros deveres conseguiremos achar a distribuição perfeita para cada usuário.  ......
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
@@ -105,7 +108,7 @@ Trabalho Interdisciplinar: Aplicacões Web | Ciência da Computação | PUC Mina
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  A princípio estudantes e trabalhadores. Pessoas com as rotinas cheias. Muitas demandas durante ao dia/semana e prezando sempre por aproveitamentos e saúde mental.   ......
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
