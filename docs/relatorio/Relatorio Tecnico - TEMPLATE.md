@@ -56,7 +56,10 @@ Trabalho Interdisciplinar: Aplicacões Web | Ciência da Computação | PUC Mina
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Falta de organização vem nós gerando diversos problemas. O dia com 24h acaba virando 8h, pois não distribuímos bem os horários. Com o estudo realizado descobrimos que grande parte das pessoas em nossas voltas vivem sem saber organizar 100% o seu tempo. Isso inclui horas de sono, trabalhos, estudos e descanso.  
+Jovens universitários, com estagio que não conseguem fazer um bom proveito do tempo por falta de organização. Com a agenda lotada não distribuem bem o tempo para realizar todas demandas.  
+Recém universitários com a diferença entre escola e faculdade sofrem problemas com organizações de tantos trabalhos/provas. 
+Donas de casa com filhos e afazeres não conseguem se organizar e não sobra tempo para hobbys, e acabam se atrasando em tarefas dos filhos.   ......
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
