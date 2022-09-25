@@ -108,23 +108,17 @@ As figuras abaixo identificam as personas propostas na fase de entendimento do p
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+De acordo com o que foi entendido sobre as características das personas propostas, recolhemos as seguintes histórias de usuários. 
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Rafael Matos  | Organizar meu tempo de trabalho X estudo X livre.          | Ter tempo para realizar todas as minhas tarefas   |
+|Carla Perazolli       | Priorizar as tarefas por importância                 | Fazer as tarefas que são mais importantes para mim primeiro |
+|Pedro Riviera       | Poder utilizar o site no meu celular       | Permitir que eu possa administrar meu cronograma em qualquer lugar |
+|Rafael Matos      | Ser relembrado das minhas tarefas que não foram cumpridas       | Fazer com que eu não esqueça das minhas tarefas facilmente |
+|Carla Perazolli       | Ver as tarefas que foram cumpridas ou não na semana e mês | Me motivar a cumprir as minhas tarefas não cumpridas |
+|Pedro Riviera      | Poder integrar o site com outros serviços e aparelhos (Smartwatch, Google Calendar, etc)| Permitir introduzir o site na minha rotina, hábitos e serviços |
 
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
 ## Requisitos
 
