@@ -311,12 +311,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20222-04-organizar-dia-a-dia-procrastinacao | 
 |Protótipo Interativo | Figma | https://www.figma.com/file/nqcpjQUR3kXDD2C0WnXElR/Better-Time-outras-paginas?node-id=0%3A1 | 
 
-<<<<<<< Updated upstream
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-=======
->>>>>>> Stashed changes
 > As ferramentas empregadas no projeto são:
 > 
 > - Visual Studio Code.
