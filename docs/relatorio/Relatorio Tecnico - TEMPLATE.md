@@ -157,7 +157,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre (04/12/2022)|
-|02| Não pode ser desenvolvido um módulo de backend        |
+|02| O desenvolvimento do site não pode ser terceirizado  |
+|03| Não pode ser desenvolvido um módulo de backend        |
 
 # Projeto de Interface
 
