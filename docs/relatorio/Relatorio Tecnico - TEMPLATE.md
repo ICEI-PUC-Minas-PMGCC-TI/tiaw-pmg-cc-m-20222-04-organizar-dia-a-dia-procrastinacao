@@ -23,17 +23,17 @@ Trabalho Interdisciplinar: Aplicacões Web | Ciência da Computação | PUC Mina
   - [Participantes](#participantes)
 - [Estrutura do Documento](#estrutura-do-documento)
 - [Introdução](#introdução)
-  - [Problema](#problema) *Eduarda
-  - [Objetivos](#objetivos) *Eduarda
-  - [Justificativa](#justificativa) *Eduarda
-  - [Público-Alvo](#público-alvo) *Eduarda
+  - [Problema](#problema) 
+  - [Objetivos](#objetivos) 
+  - [Justificativa](#justificativa) 
+  - [Público-Alvo](#público-alvo) 
 - [Especificações do Projeto](#especificações-do-projeto)
-  - [Personas e Mapas de Empatia](#personas-e-mapas-de-empatia) * Felipe
-  - [Histórias de Usuários](#histórias-de-usuários) * Felipe
-  - [Requisitos](#requisitos) * Felipe
+  - [Personas e Mapas de Empatia](#personas-e-mapas-de-empatia) 
+  - [Histórias de Usuários](#histórias-de-usuários) 
+  - [Requisitos](#requisitos) 
     - [Requisitos Funcionais](#requisitos-funcionais)
     - [Requisitos não Funcionais](#requisitos-não-funcionais)
-  - [Restrições](#restrições) * Felipe
+  - [Restrições](#restrições) 
 - [Projeto de Interface](#projeto-de-interface)
   - [User Flow](#user-flow)
   - [Wireframes](#wireframes)
