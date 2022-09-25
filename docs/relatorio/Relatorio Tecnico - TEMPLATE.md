@@ -142,9 +142,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Compatibilidade com os navegadores mais utilizados do mercado (Google Chrome, Firefox, Microsoft Edge) |  ALTA | 
-|RNF-003| UI fácil de entender e de usar | ALTA | 
+|RNF-001| Compatibilidade com os navegadores mais utilizados do mercado (Google Chrome, Firefox, Microsoft Edge) |  ALTA | 
+|RNF-002| UI fácil de entender e de usar | ALTA | 
+|RNF-003| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-004| Integração e cooperação com Smartwatches | MÉDIA | 
 |RNF-005| Integração com apps de calendário | MÉDIA | 
 
