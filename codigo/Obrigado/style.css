@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+}
+
+.container {
+    margin-top: 10%;
+    margin-bottom: 20%;
+}
+.titulo { 
+    text-align: center;
+    color:black;
+}
+
+.imagem {
+    margin-left: 35%;
+    padding: 40px;
+}

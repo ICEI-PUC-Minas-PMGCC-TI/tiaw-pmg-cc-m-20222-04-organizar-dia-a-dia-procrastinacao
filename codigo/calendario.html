@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Better Time</title>
+    <link href='sprint/fullcalendar-5.11.3/lib/main.css' rel='stylesheet' />
+    <script src='sprint/fullcalendar-5.11.3/lib/main.js'></script>
+    <link rel="stylesheet" href="sprint/style.css">
+</head>
+<header class="header">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <img class="navbar-brand" src="imagens/logometune.jpeg" alt="Logo do site">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarNav" aria-controls="navbarNav"
+                aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                       
+                        <a class="nav-link active" href="principal.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        
+                        <a class="nav-link" href="notas.html">Notas</a>
+                    </li>
+                    <li class="nav-item">
+                     
+                        <a class="nav-link" href="feedback.html">Feedback</a>
+                    </li>
+                    <li class="nav-item">
+                 
+                        <a class="nav-link" href="perfil.html">Perfil</a>
+                    </li>
+                    <li class="nav-item">
+                 
+                      <a class="nav-link" href="estatistica.html">Estatísticas</a>
+                  </li>
+                  <li class="nav-item">
+                     
+                    <a class="nav-link active" aria-current="page" href="calendario.html">Calendário</a>
+                  </li>
+                </ul>
+                <form class="d-flex">
+                    <input class="form-control me-2" type="search" placeholder="Buscar"
+                        aria-label="Search">
+                    <button class="btn btn-outline-light" type="submit">Buscar</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+</header>
+<body>
+    <div class="container">
+
+        <div id="calendar"></div>
+        <script>
+            document.addEventListener('DOMContentLoaded', function () {
+                var calendarEl = document.getElementById('calendar');
+                var calendar = new FullCalendar.Calendar(calendarEl, {
+                    initialView: 'dayGridMonth',
+                    locale: 'pt-br',
+                    headerToolbar: {
+                        left: 'prev next',
+                        center: 'title',
+                        right: 'dayGridMonth,timeGridWeek,timeGridDay'
+                    },
+                    events: [
+                        {
+                            "title": "limpar a casa",
+                            "start": "2022-11-14",
+                            "end": "2022-11-19"
+                        },
+                        {
+                            "title": "arrumar tomadas e ventilador",
+                            "start": "2022-11-14",
+                            "end": "2022-11-19"
+                        },
+                        {
+    
+                        }
+                    ]
+                });
+                calendar.render();
+            });
+        </script>
+        <style>
+            .container {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                max-width: 1280px;
+                height: 100vh;
+                margin: 0 auto;
+            }
+    
+            #calendar {
+                width: 700px;
+                max-width: 1200px;
+            }
+        </style>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"
+        integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"
+        integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13"
+        crossorigin="anonymous"></script>
+</body>
+</html>
