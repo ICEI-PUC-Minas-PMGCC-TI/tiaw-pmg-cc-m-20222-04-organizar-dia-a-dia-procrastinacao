@@ -230,16 +230,16 @@ Foi pensado em criar um ambiente mais limpo possivel, com a finalidade de passsa
 > - `testing`: versão em testes do software
 > - `dev`: versão de desenvolvimento do software
 
-# **############## SPRINT 1 ACABA AQUI #############**
-
-
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+> Nosso site apresenta algumas ferramentas para auxiliar na organização 
+> pessoal do usuário. Após fazer cadastro ou login no site, o usuário pode 
+> fazer ações como cadastrar tarefas, escrever notas, ver seu progresso como 
+> estatísticas, além de poder também nos dar feedback sobre os serviços do site 
+> e nos ajudar a melhorar o serviço.
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
 > problema, ou seja, implementar a sua solução. Liste todas as
@@ -287,16 +287,6 @@ Foi pensado em criar um ambiente mais limpo possivel, com a finalidade de passsa
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
 > - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
 > -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-
-## Ferramentas de Testes (Opcional)
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
 
 ## Registros de Testes
 
