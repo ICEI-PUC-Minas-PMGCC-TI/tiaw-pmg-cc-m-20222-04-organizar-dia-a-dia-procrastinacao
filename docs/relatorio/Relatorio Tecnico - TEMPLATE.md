@@ -41,7 +41,6 @@ Trabalho Interdisciplinar: Aplicacões Web | Ciência da Computação | PUC Mina
   - [Divisão de Papéis](#divisão-de-papéis)
   - [Ferramentas](#ferramentas)
   - [Controle de Versão](#controle-de-versão)
-- [**############## SPRINT 1 ACABA AQUI #############**](#-sprint-1-acaba-aqui-)
 - [Projeto da Solução](#projeto-da-solução)
   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
   - [Arquitetura da solução](#arquitetura-da-solução)
@@ -232,14 +231,22 @@ Foi pensado em criar um ambiente mais limpo possivel, com a finalidade de passsa
 
 # Projeto da Solução
 
-> Nosso site apresenta algumas ferramentas para auxiliar na organização 
-> pessoal do usuário. Após fazer cadastro ou login no site, o usuário pode 
+> O site desenvolvido pela nossa equipe oferece ao usuário uma variedade
+> de ferramentas para auxiliar em sua organização diária. Algumas das
+> opções são uma área para anotação de lembretes, um cronograma do
+> dia/semana/mês e também uma página de estatísticas para que o mesmo
+> possa acompanhar seu progresso.
+
+## Tecnologias Utilizadas
+
+> Para o desenvolvimento do nosso site foi utlizado a IDE VSCode para
+> codificar em HTML, CSS e JavaScript. O framework escolhido pra ser
+> utilizado foi o Bootstrap. Após fazer cadastro ou login no site, o usuário pode 
 > fazer ações como cadastrar tarefas, escrever notas, ver seu progresso como 
 > estatísticas, além de poder também nos dar feedback sobre os serviços do site 
 > e nos ajudar a melhorar o serviço.
 
 ## Tecnologias Utilizadas
-
 
 > Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
 > problema, ou seja, implementar a sua solução. Liste todas as
@@ -256,55 +263,11 @@ Foi pensado em criar um ambiente mais limpo possivel, com a finalidade de passsa
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
-
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
+> A arquitetura adotada se utiliza principalmente da tarefa cadastrada
+> pelo usuário. A mesma é exibida na página principal, além de servir
+> como dado para a área de estatística. As notas do usuário seguem uma
+> lógica bem parecida, sendo exibidas em sua página própria.
 > 
 > **Exemplo do diagrama de Arquitetura**:
 > 
 > ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
-
-
-# Avaliação da Aplicação
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
-
-## Plano de Testes
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-
-## Registros de Testes
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
-
-
-# Referências
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
