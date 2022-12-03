@@ -241,8 +241,25 @@ Foi pensado em criar um ambiente mais limpo possivel, com a finalidade de passsa
 
 > Para o desenvolvimento do nosso site foi utlizado a IDE VSCode para
 > codificar em HTML, CSS e JavaScript. O framework escolhido pra ser
-> utilizado foi o Bootstrap. O usuário inicialmente terá acesso a uma página
-> de login/cadastro e a partir disso terá acesso aos demais serviços do site.
+> utilizado foi o Bootstrap. Após fazer cadastro ou login no site, o usuário pode 
+> fazer ações como cadastrar tarefas, escrever notas, ver seu progresso como 
+> estatísticas, além de poder também nos dar feedback sobre os serviços do site 
+> e nos ajudar a melhorar o serviço.
+
+## Tecnologias Utilizadas
+
+> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
+> problema, ou seja, implementar a sua solução. Liste todas as
+> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
+> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
+> Apresente também uma figura explicando como as tecnologias estão
+> relacionadas ou como uma interação do usuário com o sistema vai ser
+> conduzida, por onde ela passa até retornar uma resposta ao usuário.
+> 
+> Inclua os diagramas de User Flow, esboços criados pelo grupo
+> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
+> item textualmente comentando e complementando o que está apresentado
+> nas imagens.
 
 ## Arquitetura da solução
 
@@ -251,4 +268,6 @@ Foi pensado em criar um ambiente mais limpo possivel, com a finalidade de passsa
 > como dado para a área de estatística. As notas do usuário seguem uma
 > lógica bem parecida, sendo exibidas em sua página própria.
 > 
-> ![Arquitetura](images/arquitetura-exemplo.png)
+> **Exemplo do diagrama de Arquitetura**:
+> 
+> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
