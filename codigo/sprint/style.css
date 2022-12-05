@@ -4,6 +4,11 @@
     margin: 0;
 }
 
+.navbar-brand {
+    max-width: 100px;
+}
+
+
 header {
     background: #f6f6f6;
     height: 13rem;

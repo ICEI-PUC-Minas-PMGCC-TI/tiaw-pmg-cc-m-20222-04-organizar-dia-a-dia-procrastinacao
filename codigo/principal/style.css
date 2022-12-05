@@ -8,6 +8,10 @@ body{
     background: linear-gradient(135deg, #71b7e6, #9b59b6);
 }
 
+.navbar-brand {
+    max-width: 100px;
+}
+
 .welcome {
     margin-left: 10%;
     font-size: 500%;
@@ -16,6 +20,7 @@ body{
 .buttons {
     margin-left: 10%;
     margin-bottom: 2%;
+    margin-top: 20px;
 }
 
 .lbl {

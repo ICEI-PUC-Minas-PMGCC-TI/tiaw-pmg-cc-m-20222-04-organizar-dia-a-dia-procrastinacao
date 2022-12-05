@@ -40,6 +40,10 @@
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
 
+  .navbar-brand {
+    max-width: 100px;
+}
+
 html {
   font-family: sans-serif;
   line-height: 1.15;

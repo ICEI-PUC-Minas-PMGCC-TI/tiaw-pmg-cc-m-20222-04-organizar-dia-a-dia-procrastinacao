@@ -3,6 +3,10 @@
 	padding: 0;
 }
 
+.navbar-brand {
+    max-width: 100px;
+}
+
 body {
 	background: linear-gradient(135deg, #71b7e6, #9b59b6);
 	font-family: 'Oswald', sans-serif;
