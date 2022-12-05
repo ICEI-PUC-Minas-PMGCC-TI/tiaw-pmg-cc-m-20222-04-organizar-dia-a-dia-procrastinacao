@@ -4,7 +4,6 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 ## Alunos integrantes da equipe
 
-* Arthur Henrique Figueiredo Cayres Burdignon
 * Christopher Carpegiane de Souza Rocha
 * Eduarda Silva Santos Nunis
 * Felipe Azevedo Junqueira de Carvalho
@@ -16,7 +15,3 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 * Ilo Amy Saldanha Rivero
 * João Carlos Oliveira Caetano
 * Rommel Vieira Carneiro
-
-## Instruções de utilização
-
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
